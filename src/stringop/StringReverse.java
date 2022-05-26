@@ -13,6 +13,7 @@ public class StringReverse {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        String name;
         
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter a String: ");
