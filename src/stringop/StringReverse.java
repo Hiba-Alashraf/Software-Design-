@@ -14,6 +14,7 @@ public class StringReverse {
      */
     public static void main(String[] args) {
         String name;
+        String ID;
         
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter a String: ");
