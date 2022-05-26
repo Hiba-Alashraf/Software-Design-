@@ -35,6 +35,7 @@ public class StringReverse {
             System.out.print(arr[i]);
         }
         System.out.println("");
+        System.out.println("Hiba");
         
     }
     
